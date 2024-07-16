@@ -1,7 +1,7 @@
 # PG-Mate
 
 
-> A Node.js web application project developed by JaiHindCoders Team in Software Development Project in Semester IV.
+> A Node.js web application project developed by Ayushi Agrawal.
 
 ## Live Demo
 
