@@ -1,7 +1,7 @@
 # PG-Mate
 
 
-> A Node.js web application project developed by Ayushi Agrawal.
+> A Node.js web application project developed by Harshit Rathor.
 
 ## Live Demo
 
